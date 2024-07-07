@@ -1,0 +1,23 @@
+working_directory = "/home/dk"
+
+[window]
+opacity = 0.6
+blur = true
+padding = { x = 10, y = 10 }
+decorations = "None"
+
+[scrolling]
+multiplier = 1
+
+[font]
+size = 10.5
+normal = { family = "CaskaydiaCove Nerd Font Mono", style = "Regular" }
+bold = { family = "CaskaydiaCove Nerd Font Mono", style = "Bold" }
+italic = { family = "CaskaydiaCove Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "CaskaydiaCove Nerd Font Mono", style = "Bold Italic" }
+
+[colors]
+primary.background = "#000000"
+
+[mouse]
+hide_when_typing = true
